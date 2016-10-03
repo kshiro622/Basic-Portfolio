@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  text-align: left;
+}
+
+body {
+	font-size: 24px;
+	color: #777777;
+}
+
+header {
+
+}
+
+section {
+	float: left;
+	width: 66%;
+	background: #ffffff;
+	height: 200px;
+}
+
+h1 {
+	font-size: 40px;
+	color: #4aaaa5;
+}
