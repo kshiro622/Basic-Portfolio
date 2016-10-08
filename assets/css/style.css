@@ -79,6 +79,10 @@ a:hover {
 	color: #777777;
 }
 
+.portfoliomain {
+	margin-bottom: 20px;
+}
+
 h2 {
 	font-family: "Georgia", "Times", "Times New Roman", "serif";
 	font-size: 27px;
@@ -141,18 +145,45 @@ button:hover {
 	padding: 15px;
 }
 
+.section1, .section2, .section3, .section4, .section5 {
+	display: inline-block;
+}
+
+.section1, .section3 {
+	padding-right: 36px;
+}
+
+.section5 {
+	padding-bottom: 20px;
+}
+
+.image {
+	margin-top: 30px;
+}
+
+.banner {
+	position: absolute;
+	display: inline;
+	margin-top: 155px;
+	width: 279px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	border: none;
+	text-align: center;
+	font-size: 17px;
+	line-height: 55px;
+	margin-bottom: 10px;
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+}
+
 h3 {
-	font-family: "Georgia, Times, Times New Roman, serif";
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
 	font-size: 20px;
 	color: #4aaaa5;
 	margin-top: 10px;
 	margin-bottom: 20px;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #cccccc;
-}
-
-.clearfix {
-	overflow: auto;
 }
 
 .wrapper {
